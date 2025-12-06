@@ -1,5 +1,3 @@
-# **README.md**
-
 # Prompt Generation & Model Evaluation Pipeline
 
 This repository contains a full pipeline for generating prompts, running model tests, evaluating outputs, normalizing metrics, and validating final results.
