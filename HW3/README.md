@@ -4,6 +4,11 @@ This repository contains a full pipeline for generating prompts, running model t
 It is designed for experimentation, benchmarking, or dataset generation using LLMs.
 
 ---
+## Citation / Attribution
+
+If you use this code in your research, please acknowledge it in your paper (e.g., in the Appendix or Methods section) to ensure proper attribution. Example:
+
+“This work uses the prompt generation and evaluation pipeline developed by <Peng Wang> (2025).”
 
 ## 🚀 **Features**
 
